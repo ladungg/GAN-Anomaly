@@ -1,3 +1,0 @@
-[submodule "GANAnomaly"]
-	path = GANAnomaly
-	url = https://github.com/ladungg/GAN-Anomaly
